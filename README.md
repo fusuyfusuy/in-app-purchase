@@ -1,3 +1,7 @@
+Fork of https://github.com/FlatIO/in-app-purchase
+
+Which itself is a fork of https://github.com/voltrue2/in-app-purchase 
+
 ![Logo](https://user-images.githubusercontent.com/2267361/42299566-e25ee852-8046-11e8-9cc3-a776770fcc8e.png)
 
 ©Nobuyori Takahashi < <voltrue2@yahoo.com> >
